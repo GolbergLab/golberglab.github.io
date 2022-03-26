@@ -27,7 +27,7 @@ We developed a novel approach for minimally invasive, in vivo  tissue sampling w
 
 ### Counsel Board
 
-- <a href="https://www.rubinrudman.com/attorneys/peter-b-finn/" target="_blank" > Peter Fin, Robin and Rudman LLp - General counsel 
+- <a href="https://www.rubinrudman.com/attorneys/peter-b-finn/" target="_blank" > Peter Finn, Rubin and Rudman LLp - General counsel 
  <br><img src="./RUBIN and RUDMAN.logo.jpg" /></a>
 
 - <a href="http://www.bmtadvisors.com/" target="_blank" > David Barone- Boston MedTechAvisors. 
