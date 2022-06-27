@@ -43,5 +43,5 @@ New technology could allow less invasive tumor profiling</a>
 
 ### Contact Us
 
-<a data-auto-recognition="true" href="mailto:office@elsymedical.com">agolberg@elsymedical.com</a>
+<a data-auto-recognition="true" href="mailto:office@elsymedical.com">office@elsymedical.com</a>
 
