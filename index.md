@@ -1,14 +1,14 @@
-#### Elsy Medical  <img src="./Logo_Elsy.png" align="right" />
+### Elsy Medical  <img src="./Logo_Elsy.png" align="right" />
 
 Elsy envisions a world where every patient will get molecular profiling of suspicious lesions on the spot
 
-#### Our product
+### Our product
 
 Elsy Medical develops E-biopsy – a minimally invasive molecular sampling tool for solid tissue diagnostics!
 
 ### What is E-biopsy??
 
-# A minimally invasive molecular sampling tool for solid tissues in vivo with electroporation for rapid diagnostics
+A minimally invasive molecular sampling tool for solid tissues in vivo with electroporation for rapid diagnostics
 
 E-biopsy - is a minimally invasive molecular sampling method that utilizes in-situ electroporation (i.e., pulsed electric fields) to disrupt cell membranes in a targeted area, resulting in the release of cellular components, such as proteins and lipids. Tissue extract is then collected using a syringe, and subsequently, the content is discharged to an external buffer and undergoes molecular analysis consisting of purification, separation, identification, and quantification of the molecular structure of the tissue extract removed. 
 
