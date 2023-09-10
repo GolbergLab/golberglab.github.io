@@ -1,4 +1,4 @@
-## Elsy Medical  <img src="./main_logo.png" align="right" />
+## Elsy Medical  <img src="./Logo_Elsy.png" align="right" />
 
 
 Elsy envisions a world where every patient will get molecular profiling of suspicious lesion on a spot
