@@ -49,6 +49,16 @@ There are 15M diagnostic procedures for non-melanoma skin cancer in the USA annu
 Barrett's esophagus condition affects 5.6% of the US population, the ACG guidelines require surveillance diagnostics every 4 years with monitoring of these patients for the remainder of their lives.  There are 2,216 endoscopy centers in the USA as of 2022 not including hospitals.
 
 
+### Key publications
+
+<a href="https://www.nature.com/articles/s41598-019-51634-7" > Golberg A., Sheviryov J, Solomon O, Anavy L, Yakhini Z. Molecular harvesting with electroporation for tissue profiling. 2019. Scientific reports. 9: 15750. 
+
+<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0265866" > Genish I, Gabay B, Ruban A, Goldshmit Y, Singth A, Wise J, Levkov K, Shalom A, Vitkin E, Yakhini Z, Golberg A. Electroporation-based proteome sampling ex vivo enables the detection of brain melanoma protein signatures in a location proximate to visible tumor margins. PLoS ONE. 2022. 17(5):e0265866. 
+
+<a href="https://www.nature.com/articles/s41598-022-19984-x" > E Vitkin, A Singh, J Wise, S Ben-Elazar, Z Yakhini, A Golberg. Nondestructive protein sampling with electroporation facilitates profiling of spatial differential protein expression in breast tumors in vivo. Scientific reports 2022. 12 (1), 1-12
+
+<a href="https://link.springer.com/article/10.1007/s10439-023-03208-y" > Gabay B, Levkov K, Berl A, Wise J, Shir-Az O, Vitkin E, Saulis G, Shalom A, Golberg A. Electroporation-Based Biopsy Treatment Planning with Numerical Models and Tissue Phantoms. Annals Biomedical Engineering. 2023  https://doi.org/10.1007/s10439-023-03208-y
+
 
 
 
