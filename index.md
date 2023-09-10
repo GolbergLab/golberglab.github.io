@@ -21,10 +21,10 @@ Due to its minimally invasive nature, the E-biopsy enables the gathering of mult
 ### Current Applications:
 
 ### Dermatology
-<br><img src="./Dermatology.png" /></a>
+<br><img src="./Dermatology.png" />
 
 ### Gastroenterology: Barrett’s esophagus. Pancreatic masses.
-<br><img src="./Gastro.png" /></a>
+<br><img src="./Gastro.png" />
 
 ### Milestones already accomplished
 * Fully functional, battery-powered prototype device Q3-2022
@@ -42,11 +42,6 @@ The ability to rapidly discern normal from cancerous tissue while still at the d
 ### The need/problem
 
 Currently only extremely experienced and specifically trained dermatologists and endoscopists can accurately identify Basal and Squamous Cell Carcinomas and Barrett's esophagus lesions without using the histopathology. Our revolutionary tool would enable less highly trained physicians and non-specialists to accurately and rapidly identify margins as well as tissue type of various cancerous lesions.   
-
-### Market size
-
-There are 15M diagnostic procedures for non-melanoma skin cancer in the USA annually. There are 5,333 Dermatology businesses in the USA as of Jan 2023 not including hospitals. This also does not include the other physicians like internists who would also use this tool to screen patients. 
-Barrett's esophagus condition affects 5.6% of the US population, the ACG guidelines require surveillance diagnostics every 4 years with monitoring of these patients for the remainder of their lives.  There are 2,216 endoscopy centers in the USA as of 2022 not including hospitals.
 
 
 ### Key publications
