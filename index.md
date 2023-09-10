@@ -23,8 +23,33 @@ Due to its minimally invasive nature, the E-biopsy enables the gathering of mult
 ### Dermatology
 <br><img src="./Dermatology.png" /></a>
 
-### Gastroenterology : Barrett’s esophagus. Pancreatic masses.
+### Gastroenterology: Barrett’s esophagus. Pancreatic masses.
 <br><img src="./Gastro.png" /></a>
+
+### Milestones already accomplished
+* Fully functional, battery-powered prototype device Q3-2022
+* Handheld sampling E-biopsy device for dermatology application Q3-2023
+* 180 ex vivo patients clinical trial Q4-2022
+* In vivo animal model trial Q3-2022
+* ML biomarker model for patient stratification between skin cancer subtypes: basal cell carcinoma and squamous cell carcinoma Q3-2023
+* Assembled management and SAB team Q2-2023
+* Detailed market research Q2-2022
+
+### Value proposition
+
+The ability to rapidly discern normal from cancerous tissue while still at the doctor’s office would be a tremendous benefit to the field of dermatology, pathology, and to medicine in general. With patented technology, Elsy Medical has built a revolutionary electroporation device that is pain free, to "liquify" minute amounts of questionable tissue and using deep tech/AI to analyze the mixture against biomarkers and provide an extremely accurate result for the clinician and patient. A world's first minimally invasive rapid diagnostic for skin and other tissue diseases.
+
+### The need/problem
+
+Currently only extremely experienced and specifically trained dermatologists and endoscopists can accurately identify Basal and Squamous Cell Carcinomas and Barrett's esophagus lesions without using the histopathology. Our revolutionary tool would enable less highly trained physicians and non-specialists to accurately and rapidly identify margins as well as tissue type of various cancerous lesions.   
+
+### Market size
+
+There are 15M diagnostic procedures for non-melanoma skin cancer in the USA annually. There are 5,333 Dermatology businesses in the USA as of Jan 2023 not including hospitals. This also does not include the other physicians like internists who would also use this tool to screen patients. 
+Barrett's esophagus condition affects 5.6% of the US population, the ACG guidelines require surveillance diagnostics every 4 years with monitoring of these patients for the remainder of their lives.  There are 2,216 endoscopy centers in the USA as of 2022 not including hospitals.
+
+
+
 
 
 
