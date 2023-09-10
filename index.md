@@ -1,9 +1,31 @@
 ## Elsy Medical  <img src="./Logo_Elsy.png" align="right" />
 
 
-Elsy envisions a world where every patient will get molecular profiling of suspicious lesion on a spot
+Elsy envisions a world where every patient will get molecular profiling of suspicious lesions on the spot
 
-We provide on the spot molecular profiling of solid tissues using  our novel, IP protected, minimally invasive in-vivo molecular sampling with electric fields. 
+### Our product
+
+Elsy Medical develops E-biopsy – a minimally invasive molecular sampling tool for solid tissue diagnostics![image](https://github.com/GolbergLab/golberglab.github.io/assets/86614045/ba28e50c-d41f-4ed7-90c6-c05c4997137e)
+
+### What is E-biopsy??
+
+## A minimally invasive molecular sampling tool for solid tissues in vivo with electroporation for rapid diagnostics
+
+E-biopsy - is a minimally invasive molecular sampling method that utilizes in-situ electroporation (i.e., pulsed electric fields) to disrupt cell membranes in a targeted area, resulting in the release of cellular components, such as proteins and lipids. Tissue extract is then collected using a syringe, and subsequently, the content is discharged to an external buffer and undergoes molecular analysis consisting of purification, separation, identification, and quantification of the molecular structure of the tissue extract removed. 
+
+The electroporation system consists of a pulsed electric field generator, an applicator, and an analysis unit providing information on the extracted cellular contents.
+
+The feasibility of the E-biopsy was already demonstrated by the project team in animal and in ex vivo human clinical studies. The technology is not limited to a specific tissue, and as such, may support a broad range of clinical applications, such as screening, aiding in diagnosis, detecting of recurrence of tumor post-intervention, assessing tumor heterogeneity, and more. Being an alternative to many other lesion-analysis approaches, it may also augment them leading to improved analysis quality.
+
+Due to its minimally invasive nature, the E-biopsy enables the gathering of multiple samples from the same lesion, opening the possibility of creating its high-resolution spatial molecular profile,  and increasing the sensitivity and specificity of the analysis. Being both simple and molecular-based sampling technology, the E-biopsy approach reduces the load on many clinical resources, and especially on pathologists, thus improving the medical treatment efficiency and reducing the overall costs. 
+
+https://youtu.be/mmqsOUK2Qko![image](https://github.com/GolbergLab/golberglab.github.io/assets/86614045/5e2fc24a-8dbd-480e-ba67-70197adbe6ef)
+
+
+
+
+
+
 
 ### Challenge
 
