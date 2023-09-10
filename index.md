@@ -17,7 +17,9 @@ The electroporation system consists of a pulsed electric field generator, an app
 The feasibility of the E-biopsy was already demonstrated by the project team in animal and in ex vivo human clinical studies. The technology is not limited to a specific tissue, and as such, may support a broad range of clinical applications, such as screening, aiding in diagnosis, detecting of recurrence of tumor post-intervention, assessing tumor heterogeneity, and more. Being an alternative to many other lesion-analysis approaches, it may also augment them leading to improved analysis quality.
 
 Due to its minimally invasive nature, the E-biopsy enables the gathering of multiple samples from the same lesion, opening the possibility of creating its high-resolution spatial molecular profile,  and increasing the sensitivity and specificity of the analysis. Being both simple and molecular-based sampling technology, the E-biopsy approach reduces the load on many clinical resources, and especially on pathologists, thus improving the medical treatment efficiency and reducing the overall costs. 
+
 ### Applications
+
 ### Dermatology
 <br><img src="./Dermatology.png" /></a>
 
