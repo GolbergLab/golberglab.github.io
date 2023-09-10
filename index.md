@@ -1,9 +1,8 @@
 ## Elsy Medical  <img src="./Logo_Elsy.png" align="right" />
 
-
 Elsy envisions a world where every patient will get molecular profiling of suspicious lesions on the spot
 
-### Our product
+# Our product
 
 Elsy Medical develops E-biopsy – a minimally invasive molecular sampling tool for solid tissue diagnostics![image](https://github.com/GolbergLab/golberglab.github.io/assets/86614045/ba28e50c-d41f-4ed7-90c6-c05c4997137e)
 
