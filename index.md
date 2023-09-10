@@ -1,4 +1,4 @@
-## Elsy Medical  <img src="./Logo_Elsy.png" align="right" />
+#### Elsy Medical  <img src="./Logo_Elsy.png" align="right" />
 
 Elsy envisions a world where every patient will get molecular profiling of suspicious lesions on the spot
 
@@ -18,7 +18,6 @@ The feasibility of the E-biopsy was already demonstrated by the project team in 
 
 Due to its minimally invasive nature, the E-biopsy enables the gathering of multiple samples from the same lesion, opening the possibility of creating its high-resolution spatial molecular profile,  and increasing the sensitivity and specificity of the analysis. Being both simple and molecular-based sampling technology, the E-biopsy approach reduces the load on many clinical resources, and especially on pathologists, thus improving the medical treatment efficiency and reducing the overall costs. 
 
-https://youtu.be/mmqsOUK2Qko![image](https://github.com/GolbergLab/golberglab.github.io/assets/86614045/5e2fc24a-8dbd-480e-ba67-70197adbe6ef)
 
 
 
