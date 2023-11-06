@@ -103,7 +103,7 @@ Past president of the American Society of Dermatopathology and is an elected mem
 
 ### Mass spectrometry 
 
-<b>Michael Grösssl Ph.D</b>. Dr. Grössl received his Ph.D. in Chemistry from the University of Vienna where he was also a scientist and lecturer. He was the former head of the Steroid Laboaratory at the University of Bern and currently serves as the CTO of Tofwerk Corporation in Berne, Switzerland. Michael is enthusiastic about all areas of analytical chemistry, especially with applications in translational medicine. His expertise also lies in Mass Spectrometry, Separation Techniques, Translational Research, -Omics technologies, and Application Development.
+<b>Michael Grössl Ph.D</b>. Dr. Grössl received his Ph.D. in Chemistry from the University of Vienna where he was also a scientist and lecturer. He was the former head of the Steroid Laboaratory at the University of Bern and currently serves as the CTO of Tofwerk Corporation in Berne, Switzerland. Michael is enthusiastic about all areas of analytical chemistry, especially with applications in translational medicine. His expertise also lies in Mass Spectrometry, Separation Techniques, Translational Research, -Omics technologies, and Application Development.
 
 ### Vacancies 
 We have several internship positions available. 
