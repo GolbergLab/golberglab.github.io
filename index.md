@@ -8,7 +8,10 @@ Elsy Medical develops E-biopsy – a minimally invasive molecular sampling tool 
 
 ### Our White Papers on the uses of E-biopsy for research
 
-## E-biopsy: Electroporation-Based Molecular Sampling for In Vivo Research Applications (E-biopsy_Scientific_White_Paper_1.pdf)
+
+<a href="E-biopsy_Scientific_White_Paper_1.pdf" target="_blankn-Based Molecular Sampling for In Vivo Research Applications
+</a>
+
 
 
 ### Contact Us
