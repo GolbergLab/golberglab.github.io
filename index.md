@@ -13,6 +13,9 @@ Elsy Medical develops E-biopsy – a minimally invasive molecular sampling tool 
 
 <a href="E-biopsy_Scientific_White_Paper_1.pdf"> Electroporation-Based Molecular Sampling for In Vivo Research Applications
 </a>
+<a href="EBiopsy_WP2.pdf"> Advancing Tumor Margin Detection in the Brain<img width="468" height="38" alt="image" src="https://github.com/user-attachments/assets/16e35826-587c-4219-83c1-82393f55e558" />
+</a>
+
 
 
 
